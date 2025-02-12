@@ -11,10 +11,12 @@
             "id": "77acab174c49288d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "image",
+              "state": {
+                "file": "picoCTF/01 - General Skills/Imagen solución 03.png"
+              },
+              "icon": "lucide-image",
+              "title": "Imagen solución 03"
             }
           }
         ]
@@ -166,20 +168,20 @@
   },
   "active": "77acab174c49288d",
   "lastOpenFiles": [
+    "picoCTF/01 - General Skills/03 - Warmed Up.md",
+    "picoCTF/01 - General Skills/Imagen solución 02.png",
+    "picoCTF/01 - General Skills/Imagen solución 03.png",
+    "picoCTF/01 - General Skills/02 - 2Warm.md",
+    "picoCTF/01 - General Skills/Imagen solución 05.png",
     "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/05 - First Grep.md",
-    "Pasted image 20250211190742.png",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/01 - General Skills/03 - Warmed Up.md",
     "picoCTF/01 - General Skills/10 - Nice netcat....md",
     "picoCTF/01 - General Skills/07 - What's a net cat.md",
     "picoCTF/01 - General Skills/08 - Plumbing.md",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "picoCTF/01 - General Skills/06 - Obedient Cat.md",
     "Plantilla.md",
-    "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "Pasted image 20250211183307.png",
-    "Pasted image 20250211182311.png",
     "2025-02-11.md",
     "Sin título.canvas",
     "README.md",

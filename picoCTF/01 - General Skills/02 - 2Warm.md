@@ -6,7 +6,8 @@ Se proponen dos opciones:
 - Se puede seguir un procedimiento manual como el siguiente: dividir el número entre 2 sucesivamente hasta llegar a 1. Luego, se escriben los residuos de cada división en orden inverso.
 - Una calculadora como la integrada en Windows la cual tiene un modo de programador que permite hacer conversiones entre números de diferentes bases.
 
-Se usó la calculadora de Windows.![[Pasted image 20250211182311.png]]
+Se usó la calculadora de Windows.
+![[Imagen solución 02.png]]
 
 ```
 La respuesta es:

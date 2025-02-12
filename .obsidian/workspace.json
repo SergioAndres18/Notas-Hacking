@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd5c6cf78f4f478",
+        "id": "1d00e9fa1a50d085",
         "type": "tabs",
         "children": [
           {
-            "id": "0640868b88508a31",
+            "id": "77acab174c49288d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 - Lets Warm Up"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,10 +164,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0640868b88508a31",
+  "active": "77acab174c49288d",
   "lastOpenFiles": [
-    "Plantilla.md",
+    "picoCTF/01 - General Skills/04 - Bases.md",
+    "picoCTF/01 - General Skills/05 - First Grep.md",
+    "Pasted image 20250211190742.png",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
+    "picoCTF/01 - General Skills/03 - Warmed Up.md",
+    "picoCTF/01 - General Skills/10 - Nice netcat....md",
+    "picoCTF/01 - General Skills/07 - What's a net cat.md",
+    "picoCTF/01 - General Skills/08 - Plumbing.md",
+    "picoCTF/01 - General Skills/09 - Glitch Cat.md",
+    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
+    "Plantilla.md",
+    "picoCTF/01 - General Skills/02 - 2Warm.md",
+    "Pasted image 20250211183307.png",
+    "Pasted image 20250211182311.png",
+    "2025-02-11.md",
+    "Sin título.canvas",
     "README.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
     "picoCTF/01 - General Skills",

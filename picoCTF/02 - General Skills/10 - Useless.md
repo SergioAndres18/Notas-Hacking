@@ -1,0 +1,5 @@
+## Descripción
+There's an interesting script in the user's home directory. Additional details will be available after launching your challenge instance.
+Hay un script interesante en el directorio home del usuario. Habrá detalles adicionales disponibles después de iniciar tu instancia de desafío.
+## Solución
+Al darle al boton de "Launch Instance" nos da la información para conectarnos mediante ssh a una maquina virtual. Dentro esta el archivo useless, el cual si intentamos ejecutar con el comando `./useless` nos dice "Read the code first", por lo que usamos `cat useless` y así podemos leerlo, al final del código no dice "Read the manual", esto es una referencia al comando `man` el cual sirve para mostrar los manuales de comandos y porgramas, si usamos `man useless` en la parte de autores nos dice la bandera `picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_8504}`

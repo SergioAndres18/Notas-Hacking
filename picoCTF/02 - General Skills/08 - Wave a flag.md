@@ -1,0 +1,6 @@
+## Descripción
+Can you invoke help flags for a tool or binary? [This program](https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm) has extraordinarily helpful information...
+
+¿Puedes invocar las banderas de ayuda para una herramienta o binario? [Este programa](https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm) tiene información extraordinariamente útil...
+## Solución
+Al intentar ejecutar el archivo con el comando `./warm` no dice lo siguiente "Hello user! Pass me a -h to learn what I can do!", así ahora agregamos el `-h` al comando anterior quedando como `./warm -h`, dandonos la bandera `picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}`

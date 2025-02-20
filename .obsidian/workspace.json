@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - General Skills/10 - Useless.md",
+                "file": "picoCTF/03 - General Skills/10 - Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Useless"
+              "title": "10 - Serpentine"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5879f7d21ece6c5f",
@@ -171,40 +170,43 @@
   },
   "active": "77acab174c49288d",
   "lastOpenFiles": [
+    "picoCTF/03 - General Skills/09 - PW Crack 3.md",
+    "picoCTF/03 - General Skills/10 - Serpentine.md",
+    "picoCTF/03 - General Skills/06 - PW Crack 2.md",
+    "picoCTF/03 - General Skills/08 - Super SSH.md",
+    "picoCTF/03 - General Skills/07 - runme.py.md",
+    "picoCTF/03 - General Skills/05 - PW Crack 1.md",
+    "picoCTF/03 - General Skills/03 - fixme1.py.md",
+    "picoCTF/03 - General Skills/04 - fixme2.py.md",
+    "picoCTF/03 - General Skills/02 - convertme.py.md",
+    "picoCTF/03 - General Skills/01- Codebook.md",
+    "Plantilla.md",
+    "picoCTF/02 - General Skills/10 - Useless.md",
+    "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills/09 - Based.md",
     "picoCTF/02 - General Skills/08 - Wave a flag.md",
     "picoCTF/02 - General Skills/07 - Tab, Tab, Attack.md",
     "picoCTF/02 - General Skills/06 - Strings it.md",
     "picoCTF/02 - General Skills/05 - Static ain't always noise.md",
     "picoCTF/02 - General Skills/04 - Repetitions.md",
-    "picoCTF/02 - General Skills/10 - Useless.md",
     "picoCTF/02 - General Skills/03 - Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills/01 - Solución_2.png",
     "picoCTF/02 - General Skills/02 - First Find.md",
     "picoCTF/02 - General Skills/01 - Big Zip.md",
     "picoCTF/02 - General Skills/01 - Solución_1.png",
-    "Plantilla.md",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills/05 - First Grep.md",
     "picoCTF/01 - General Skills/03 - Warmed Up.md",
     "picoCTF/01 - General Skills/07 - What's a net cat.md",
     "picoCTF/01 - General Skills/10 - Nice netcat....md",
-    "picoCTF/01 - General Skills/08 - Plumbing.md",
-    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
     "picoCTF/01 - General Skills/Imagen solución 03.png",
     "picoCTF/01 - General Skills/Imagen solución 02.png",
-    "picoCTF/01 - General Skills/02 - 2Warm.md",
     "picoCTF/01 - General Skills/Imagen solución 05.png",
-    "picoCTF/01 - General Skills/04 - Bases.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "2025-02-11.md",
     "Sin título.canvas",
-    "README.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up",
     "picoCTF/01 - General Skills",
     "Sin nombre 1",
-    "Bienvenido.md",
     "picoCTF"
   ]
 }

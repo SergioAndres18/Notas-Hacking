@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/10 - Serpentine.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Serpentine"
-            }
-          },
-          {
-            "id": "4f61e0faa515a467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 1 - General Skills/07 - ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - ASCII Numbers"
+              "title": "Plantilla"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +168,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4f61e0faa515a467",
+  "active": "77acab174c49288d",
   "lastOpenFiles": [
+    "picoCTF/03 - General Skills/10 - Serpentine.md",
+    "picoCTF/Tarea 1 - General Skills/07 - ASCII Numbers.md",
     "picoCTF/Tarea 1 - General Skills/10 - Special.md",
     "picoCTF/Tarea 1 - General Skills/09 - Permissions.md",
     "picoCTF/Tarea 1 - General Skills/08 - Chrono.md",
-    "picoCTF/Tarea 1 - General Skills/07 - ASCII Numbers.md",
     "picoCTF/Tarea 1 - General Skills/06 - Time Machine.md",
     "picoCTF/Tarea 1 - General Skills/05 - Commitment Issues.md",
     "picoCTF/Tarea 1 - General Skills/04 - Collaborative Development.md",
@@ -199,7 +185,6 @@
     "picoCTF/Tarea 1 - General Skills/Sin nombre",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03 - General Skills/09 - PW Crack 3.md",
-    "picoCTF/03 - General Skills/10 - Serpentine.md",
     "picoCTF/03 - General Skills/06 - PW Crack 2.md",
     "picoCTF/03 - General Skills/08 - Super SSH.md",
     "picoCTF/03 - General Skills/07 - runme.py.md",

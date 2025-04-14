@@ -8,3 +8,13 @@ Una **expresión regular** (_regex_ o _regexp_) es una secuencia de caracteres q
 Al ingresar a la página nos dice que ingresemos una entrada valida, dicha entrada se toma como un expresión regular, por lo que si ingresamos `picoCTF`nos regresa la cadena que contiene la bandera, la cual es `picoCTF{succ3ssfully_matchtheregex_8ad436ed}`  
 ## Referencias
 https://regexr.com/
+
+
+
+---
+Notas relacionadas:
+- [[01 - MatchTheRegex]]
+- [[02 - SOAP]]
+- [[03 - Trickster]]
+- [[04 - Most Cookies]]
+---

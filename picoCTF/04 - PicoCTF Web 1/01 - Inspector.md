@@ -13,6 +13,13 @@ Ingresar a la página dada e inspeccionar el código fuente de la página, hay s
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?f10be399} */
 ```
 
-## Notas adicionales
 
-## Referencias
+---
+Notas relacionadas:
+- [[01 - Inspector]]
+- [[02 - Where are the Robots]]
+- [[03 - Logon]]
+- [[04 - dont-use-client-side]]
+- [[05 - picobrowser]]
+- [[06 - Client-side-again]]
+---

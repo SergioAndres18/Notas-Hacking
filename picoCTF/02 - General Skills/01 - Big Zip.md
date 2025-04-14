@@ -12,3 +12,18 @@ picoCTF{gr3p_15_m4g1c_ef8790dc}
 ```
 ## Notas adicionales
 Se podría crear un programa que busque en los archivos la cadena picoCTF.
+
+
+---
+Notas relacionadas:
+- [[01 - Big Zip]]
+- [[02 - First Find]]
+- [[03 - Magikarp Ground Mission]]
+- [[04 - Repetitions]]
+- [[05 - Static ain't always noise]]
+- [[06 - Strings it]]
+- [[07 - Tab, Tab, Attack]]
+- [[08 - Wave a flag]]
+- [[09 - Based]]
+- [[10 - Useless]]
+---

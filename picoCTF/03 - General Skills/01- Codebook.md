@@ -14,3 +14,19 @@ Ejecuta el script de Python `code.py` en la misma carpeta que `codebook.txt`
 La bandera es
 picoCTF{c0d3b00k_455157_d9aa2df2}
 ```
+
+
+
+---
+Notas relacionadas:
+- [[01- Codebook]]
+- [[02 - convertme.py]]
+- [[03 - fixme1.py]]
+- [[04 - fixme2.py]]
+- [[05 - PW Crack 1]]
+- [[06 - PW Crack 2]]
+- [[07 - runme.py]]
+- [[08 - Super SSH]]
+- [[09 - PW Crack 3]]
+- [[10 - Serpentine]]
+---

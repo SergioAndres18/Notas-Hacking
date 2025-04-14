@@ -7,3 +7,18 @@ Al entrar en la página vemos un texto que habla de la directiva `include` que h
 
 Si inspeccionamos el código del archivo vemos que incluye dos archivos externos en `CSS` y `JS`. Si ingresamos a ellos podemos encontrar la bandera en los comentarios.
 `picoCTF{1nclu51v17y_1of2_f7w_2of2_df589022}`
+
+
+---
+Notas relacionadas:
+- [[01 - Includes]]
+- [[02 - Inspect HTML]]
+- [[03 - IntroToBurp]]
+- [[04 - Local Authority]]
+- [[05 - Power Cookie]]
+- [[06 - Roboto Sans]]
+- [[07 - Secrets]]
+- [[08 - SQLiLite]]
+- [[09 - Unminify]]
+- [[10 - WebDecode]]
+---

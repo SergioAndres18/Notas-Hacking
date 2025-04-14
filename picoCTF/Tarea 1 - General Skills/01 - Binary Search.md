@@ -14,3 +14,18 @@ Puedes descargar los archivos del desafío aquí:
 Detalles adicionales estarán disponibles después de iniciar tu instancia del desafío.
 ## Solución
 Al conectarnos a la maquina virtual mediante ssh, nos pide jugar a adivinar un número del 1 al 1000 en menos de 10 intentos. Al adivinar el número no muestra la banedera `picoCTF{g00d_gu355_1597707f}`
+
+
+---
+Notas relacionadas:
+- [[01 - Binary Search]]
+- [[02 - Binhexa]]
+- [[03 - Blame Game]]
+- [[04 - Collaborative Development]]
+- [[05 - Commitment Issues]]
+- [[06 - Time Machine]]
+- [[07 - ASCII Numbers]]
+- [[08 - Chrono]]
+- [[09 - Permissions]]
+- [[10 - Special]]
+---

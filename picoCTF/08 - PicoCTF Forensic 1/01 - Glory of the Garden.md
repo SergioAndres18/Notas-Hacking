@@ -18,3 +18,13 @@ IEC http://www.iec.ch
 Here is a flag "picoCTF{more_than_m33ts_the_3y33dd2eEF5}"
 ```
 Usando el comando anterior podemos encontrar la bandera.
+
+
+---
+Notas relacionadas:
+- [[01 - Glory of the Garden]]
+- [[02 - So Meta]]
+- [[03 - shark on wire 1]]
+- [[04 - extensions]]
+- [[05 - What Lies Within]]
+---

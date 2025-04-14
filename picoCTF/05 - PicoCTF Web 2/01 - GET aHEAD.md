@@ -55,3 +55,12 @@ Client-Response-Num: 1
 Flag: picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}
 ```
 En el encabezado de la página podemos obtener la bandera.
+
+
+
+---
+Notas relacionadas:
+- [[01 - GET aHEAD]]
+- [[02 - Cookies]]
+- [[03 - Scavenger Huntd]]
+---

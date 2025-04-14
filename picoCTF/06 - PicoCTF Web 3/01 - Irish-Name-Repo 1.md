@@ -5,6 +5,12 @@ Hay un sitio web en funcionamiento en [https://jupiter.challenges.picoctf.org/pr
 ## Solución
 
 picoCTF{s0m3_SQL_c218b685}
-## Notas adicionales
 
-## Referencias
+
+
+---
+Notas relacionadas:
+- [[01 - Irish-Name-Repo 1]]
+- [[02 - More SQLi]]
+- [[03 - JaWT Scratchpad]]
+---

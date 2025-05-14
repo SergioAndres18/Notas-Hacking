@@ -11,3 +11,19 @@ Podemos encontrar la función `sendMessage` a la cual se le envia `mate` o `eval
 Si utilizamos el la consola del inspector del navegador, en este caso Firefox, y usamos la función `sendMessage` y probamos distintos valores podemos encontrar la bandera, en este caso con `eval -100000` nos muestra la bandera: `picoCTF{c1i3nt_s1d3_w3b_s0ck3t5_b820bcc2}`
 
 ![[Imagen 05 - WebSockFish.png]]
+
+
+---
+Notas relacionadas:
+- [[01 - Bookmarklet]]
+- [[02 - Cookie Monster Secret Recipe]]
+- [[03 - head-dump]]
+- [[04 - n0s4n1ty 1]]
+- [[05 - SSTI1]]
+- [[06 - findme]]
+- [[07 - Java Code Analysis!]]
+- [[08 - SQL Direct]]
+- [[09 - SSTI2]]
+- [[10 - WebSockFish]]
+- [[01 - FANTASY CTF]]
+---

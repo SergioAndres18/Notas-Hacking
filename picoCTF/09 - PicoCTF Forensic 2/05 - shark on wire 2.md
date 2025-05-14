@@ -19,3 +19,12 @@ print(flag)
 ```
 
 Al ejecutar el script obtenemos la bandera `picoCTF{p1LLf3r3d_data_v1a_st3g0}`
+
+---
+Notas relacionadas:
+- [[01 - m00nwalk]]
+- [[02 - WhitePages]]
+- [[03 - c0rrupt]]
+- [[04 - like1000]]
+- [[05 - shark on wire 2]]
+---

@@ -58,3 +58,13 @@ flag.txt
 ctf-player@challenge:~$ cat flag.txt
 picoCTF{k3y_5l3u7h_339601ed}
 ```
+
+---
+Notas relacionadas:
+- [[01 - Milkslap]]
+- [[02 - Disk, disk, sleuth!]]
+- [[03 - Sleuthkit Intro]]
+- [[04 - Sleuthkit Apprentice]]
+- [[05 - Operation Orchid]]
+- [[06 - Operation Oni]]
+---

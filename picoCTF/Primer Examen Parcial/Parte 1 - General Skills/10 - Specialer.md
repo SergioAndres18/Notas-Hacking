@@ -57,3 +57,19 @@ jazmin@DESKTOP-1CBQJ6D:~$
 ```
 
 ### Respuesta: picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_d5ef8b71}
+
+
+---
+Notas relacionadas:
+- [[01 - FANTASY CTF]]
+- [[02 - HashingJobApp]]
+- [[03 - Python Wrangling]]
+- [[04 - Rust fixme 1]]
+- [[05 - Rust fixme 2]]
+- [[06 - Rust fixme 3]]
+- [[07 - dont-you-love-banners]]
+- [[08 - flag_shop]]
+- [[09 - SansAlpha]]
+- [[10 - Specialer]]
+- [[01 - Bookmarklet]]
+---

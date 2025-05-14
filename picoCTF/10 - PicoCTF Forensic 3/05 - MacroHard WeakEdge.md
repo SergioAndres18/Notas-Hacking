@@ -8,3 +8,12 @@ Al abrir el archivo con un lector de archivos `.pptm` con `PowerPoint` o `LibreO
 Como resultado obtenemos varios archivos y carpetas, buscando encontramos un archivo llamado `hidden.txt` en la dirección `Carpeta\ppt\slideMasters`, al leerlo obtenemos lo siguiente `Z m x h Z z o g c G l j b 0 N U R n t E M W R f d V 9 r b j B 3 X 3 B w d H N f c l 9 6 M X A 1 f Q`, con el comando `echo "Z m x h Z z o g c G l j b 0 N U R n t E M W R f d V 9 r b j B 3 X 3 B w d H N f c l 9 6 M X A 1 f Q" | tr -d " " | base64 -d` podemos desencriptarlo.
 
 Con `tr -d " "` eliminamos los espacios entre los caracteres y con  `base64 -d` desencriptamos la cadena y obtenemos la bandera `picoCTF{D1d_u_kn0w_ppts_r_z1p5}`
+
+---
+Notas relacionadas:
+- [[01 - WebNet0]]
+- [[02 - WebNet1]]
+- [[03 - Matryoshka doll]]
+- [[04 - tunn3l_v1s10n]]
+- [[05 - MacroHard WeakEdge]]
+---

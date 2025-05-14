@@ -9,3 +9,17 @@ Intenta [aquí](http://standard-pizzas.picoctf.net:50042/)!
 ## Solución
 En la pagina podemos ver muchas banderas de países, pero revisándolas vemos la bandera de `Upanzi, Republic The` el cual esta mal escrito y no existe ese país, por lo que esto puede ser de los hackers.
 Descargamos la imagen de la bandera y usamos la herramienta `stepic` de la siguiente manera `stepic -d -i upz.png` lo cual nos dará la bandera `picoCTF{fl4g_h45_fl4g9a81822b}`
+
+---
+Notas relacionadas:
+- [[01 - information]]
+- [[02 - St3g0]]
+- [[03 - Redaction gone wrong]]
+- [[04 - hideme]]
+- [[05 - Scan Surprise]]
+- [[06 - CanYouSee]]
+- [[07 - Secret of the Polyglot]]
+- [[08 - RED]]
+- [[09 - Ph4nt0m 1ntrud3r]]
+- [[10 - flags are stepic]]
+---
